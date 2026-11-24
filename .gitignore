@@ -1,0 +1,12 @@
+# Build output
+*.exe
+*.o
+*.obj
+parallel_stats
+
+# Editor / OS
+.vscode/
+*.png
+Thumbs.db
+desktop.ini
+.DS_Store
